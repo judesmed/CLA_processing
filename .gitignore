@@ -1,3 +1,7 @@
+# heavy files (data and powerpoint docu
+./data
+./presentation_day
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
